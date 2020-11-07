@@ -10,7 +10,7 @@ Verificar se há atualizações no sistema.
 #### sudo apt-get upgrade
 Atualizar sistema.
 
-### sudo apt-get autoremove
+#### sudo apt-get autoremove
 Remover arquivos obsoletos do sistema.
 
 #### sudo apt-get autoclean
