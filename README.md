@@ -1,2 +1,2 @@
 # terminal_linux
-Comandos do terminal Linux, no qual estou aprendendo.
+Comandos úteis do terminal do Linux
