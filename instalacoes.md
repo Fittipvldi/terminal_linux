@@ -18,3 +18,9 @@ Limpar cache do sistema.
 
 #### sudo apt-get install -f
 Verificação se há arquivos quebrados.
+
+#### sudo dpkg -i nome_pacote
+Instalar programa.
+
+#### sudo dpkg -r nome_pacote
+Desinstalar programa.

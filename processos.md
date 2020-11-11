@@ -13,6 +13,12 @@ Filtra os processos que tem o nome_programa.
 #### pstree
 Lista os processos que estão rodando em árvore.
 
+#### sudo service nome_programa stop
+Parar serviço.
+
+#### sudo service nome_programa start
+Restartar serviço.
+
 #### kill id_processo
 Matar o processo que está sendo executado.
 
