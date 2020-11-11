@@ -17,7 +17,7 @@ Listar arquivos e diretórios.
 Listar todos os arquivos e diretórios (visíveis invisíveis)
 
 #### ls -l
-Detalhes de arquivos e diretórios.
+Detalhes (permissões) de arquivos e diretórios.
 
 #### ls * 
 Listar todos os arquivos e diretórios com os arquivos e diretórios dentro do mesmo.
